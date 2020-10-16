@@ -1,0 +1,15 @@
+problem3:
+(A)\[\begin{array}{rclr}
+    B \cup  (A \cap  \emptyset )&=& B \cup  (A \cap  (A \cap  A^{c} )) &\quad\text{(Complement with $\cap$)}\\
+    &=& B \cup  ((A \cap  A) \cap  A^{c} ) &\quad\text{(Associativity of $\cap$)}\\
+    &=& B \cup  (A \cap  A^{c} ) &\quad\text{(Idempotence of $\cap$)}\\
+    &=& B \cup  \emptyset  &\quad\text{(Complement with $\cap$)}\\
+    &=& B &\quad\text{(Identity of $\cup$)}
+\end{array}\]
+(B)\[\begin{array}{rclr}
+    (C \cup  A) \cap  (B \cup  A)&=& (A \cup  C) \cap  (B \cup  A) &\quad\text{(Commutatitivity of $\cup$)}\\
+    &=& (A \cup  C) \cap  (A \cup  B) &\quad\text{(Commutatitivity of $\cup$)}\\
+    &=& A \cup  (C \cap  B) &\quad\text{(Distributivity of $\cup$ over $\cap$)}\\
+    &=& A \cup  (B \cap  C) &\quad\text{(Commutatitivity of $\cap$)}
+\end{array}\]
+
