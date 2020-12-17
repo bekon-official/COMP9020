@@ -1,2 +1,5 @@
 # COMP9020
-很满意的一门课，考完再写
+NOT RECOMMAND TO THOSE WHO WANT HD,HD,HD
+good introduction for discrete math
+assignment and exam will be a little tricky, but teacher will give you more score than you expect, so DO NOT LEAVE A BLANK
+results:84 :(
